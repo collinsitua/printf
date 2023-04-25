@@ -32,6 +32,7 @@ struct fmt
 
 
 /**
+ *struct file of the header
  * typedef struct fmt fmt_t - Struct op
  *
  * @fmt: The format.
