@@ -3,6 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
+ *main.h is the header to aid the program rn
  * _printf - Printf function
  * @format: format.
  * Return: Printed chars.
